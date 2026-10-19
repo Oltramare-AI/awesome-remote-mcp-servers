@@ -1758,7 +1758,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Antevo Executive Brief MCP connector](https://glama.ai/mcp/connectors/ch.antevo/executive/badges/score.svg)](https://glama.ai/mcp/connectors/ch.antevo/executive)
   🔓 - Daily markets, macro and world-events brief: market regime, themes, risks, catalysts and country drilldowns.
 - [Antevo Wealth](https://antevo.ch/wealth/) `https://api.antevo.ch/mcp/wealth/mcp`
-  [![Antevo Wealth MCP connector](https://glama.ai/mcp/connectors/ch.antevo.api/antevo-wealth/badges/score.svg)](https://glama.ai/mcp/connectors/ch.antevo.api/antevo-wealth)
+  [![Antevo Wealth MCP connector](https://glama.ai/mcp/connectors/ch.antevo/wealth/badges/score.svg)](https://glama.ai/mcp/connectors/ch.antevo/wealth)
   🔐 - A household's own balance sheet: net worth, holdings, exposure to a country or sector, risk, real assets and goals.
 - [Ariadne Nexus](https://ariadnenexus.com/docs/mcp) `https://ariadnenexus.com/mcp`
   [![Ariadne Nexus MCP connector](https://glama.ai/mcp/connectors/com.ariadnenexus/ariadne-nexus-quantitative-engine/badges/score.svg)](https://glama.ai/mcp/connectors/com.ariadnenexus/ariadne-nexus-quantitative-engine)
