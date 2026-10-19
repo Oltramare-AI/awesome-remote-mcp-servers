@@ -1336,7 +1336,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Ankr Agent RPC MCP connector](https://glama.ai/mcp/connectors/io.github.w3tech/agent-rpc-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.w3tech/agent-rpc-mcp)
   🔓 - Read chain data on 200+ networks and Sui: logs, balances, NFTs, decoded calls. Ankr API key, or pay per call via x402.
 - [Antevo Executive Brief](https://antevo.ch/executive/) `https://api.antevo.ch/mcp/executive/mcp`
-  [![Antevo Executive Brief MCP connector](https://glama.ai/mcp/connectors/ch.antevo.api/antevo-executive-brief/badges/score.svg)](https://glama.ai/mcp/connectors/ch.antevo.api/antevo-executive-brief)
+  [![Antevo Executive Brief MCP connector](https://glama.ai/mcp/connectors/ch.antevo/executive/badges/score.svg)](https://glama.ai/mcp/connectors/ch.antevo/executive)
   🔓 - Daily markets, macro and world-events brief: market regime, themes, risks, catalysts and country drilldowns.
 - [Ariadne Nexus](https://ariadnenexus.com/docs/mcp) `https://ariadnenexus.com/mcp`
   [![Ariadne Nexus MCP connector](https://glama.ai/mcp/connectors/com.ariadnenexus/ariadne-nexus-quantitative-engine/badges/score.svg)](https://glama.ai/mcp/connectors/com.ariadnenexus/ariadne-nexus-quantitative-engine)
